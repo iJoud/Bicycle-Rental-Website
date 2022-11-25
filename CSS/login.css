@@ -1,0 +1,50 @@
+form {
+  margin-left: 42%;
+  padding-top: 20px;
+  margin-top: 5%;
+  margin-bottom: 18%;
+}
+
+.helpPara {
+  display: none;
+  color: #014f86;
+  margin-bottom: 0px;
+}
+
+.forgot {
+  font-size: 14px;
+}
+
+.forgot a {
+  color: blue;
+}
+
+.title {
+  color: #014f86;
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+
+.pageTitle {
+  color: #014f86;
+  text-align: center;
+  margin-left: -3%;
+  padding-top: 10px;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+
+.ver {
+  text-align: center;
+  color: #014f86;
+  margin-bottom: -40px;
+}
+
+.ver h3 {
+  color: gray;
+}
+
+.err {
+  color: red;
+}

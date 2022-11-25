@@ -1,0 +1,28 @@
+form {
+  margin-left: 42%;
+  margin-top: 2%;
+  margin-bottom: 2%
+}
+
+.helpPara {
+  display: none;
+  color: #014f86;
+  margin-bottom: 0px;
+}
+
+.title {
+  text-align: center;
+}
+
+.desc{
+  color: rgb(92, 87, 87);
+}
+
+.err{
+  color: red;
+} 
+
+.success{
+  text-align: center;
+  color: #276fa3;
+}

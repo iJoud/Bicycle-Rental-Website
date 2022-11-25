@@ -1,0 +1,111 @@
+/*This css doc. will contain css that is shared across all/multiple pages*/
+body {
+  /*to remove the spacing around the page*/
+  margin: 0px;
+}
+
+/*style of the table used for organizing the page*/
+table {
+  width: 100%;
+  border-style: none;
+  border-collapse: collapse;
+  margin: 0px;
+}
+
+/*style of the header/navigation bar*/
+thead {
+  color: white;
+  font-weight: bold;
+  font-size: 21px;
+  background-color: #014f86;
+  text-align: center;
+  vertical-align: middle;
+}
+
+thead th {
+  width: 100px;
+}
+
+thead th a {
+  text-decoration: none;
+  color: inherit;
+}
+/*End of style of the header/navigation bar*/
+
+/*style of the footer bar*/
+.footerBg {
+  color: white;
+  text-align: center;
+  background-color: #014f86;
+}
+
+tfoot ul {
+  list-style: none;
+}
+/*End of style of the footer bar*/
+
+.submit {
+  width: 100px;
+  color: white;
+  text-align: center;
+  background-color: #005f73;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.clear {
+  width: 100px;
+  color: 005f73;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  border: solid 1px #005f73;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout{
+  text-decoration: underline;
+}
+
+
+.footerBg {
+  color: white;
+  text-align: center;
+  background-color: #014f86;
+}
+
+tfoot ul, tbody ul {
+  list-style: none;
+}
+
+.text {
+  color: inherit;
+  text-align: center;
+  background-color:white ;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* .text p {
+  font-size: 20px;
+  margin-bottom: 40px;
+} */
+
+.TwitterImg{
+  height: 20px;
+  width: 20px;
+  position:relative;
+  bottom:-1ex;
+
+}
+
+.emails{
+  text-decoration: none;
+  color: white;
+
+}
+
